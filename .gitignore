@@ -1,0 +1,16 @@
+# 配置文件
+screenshot_settings.json
+guke_settings.json
+
+# 截图目录
+screenshots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
